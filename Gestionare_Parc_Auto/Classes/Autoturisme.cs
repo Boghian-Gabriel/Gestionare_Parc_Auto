@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace Gestionare_Parc_Auto.Classes
 {
+    //class Auto
     class Autoturisme
     {
         public int Id_auto { get; set; }
